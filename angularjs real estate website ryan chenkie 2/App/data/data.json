@@ -1,0 +1,80 @@
+﻿[
+  {
+      "id": 1,
+      "type": "Condo",
+      "price": 220000,
+      "address": "Albany, Christchurch",
+      "description": "Excellent place, really nice view.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib1"
+  },
+  {
+      "id": 2,
+      "type": "House",
+      "price": 502000,
+      "address": "Sydenham, Christchurch",
+      "description": "Very nice view of mountains.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib2"
+  },
+  {
+      "id": 3,
+      "type": "Apartment",
+      "price": 221000,
+      "address": "St. Albans, Christchurch",
+      "description": "Amazing property.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib3"
+  },
+  {
+      "id": 4,
+      "type": "Duplex",
+      "price": 231210,
+      "address": "Phillipstown, Christchurch",
+      "description": "Big section.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib4"
+  },
+  {
+      "id": 5,
+      "type": "Duplex",
+      "price": 231210,
+      "address": "Phillipstown, Christchurch",
+      "description": "Big section.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib5"
+  },
+  {
+      "id": 6,
+      "type": "Duplex",
+      "price": 231221,
+      "address": "Phillipstown, Christchurch",
+      "description": "Big section.",
+      "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 1023
+      },
+      "image": "crib6"
+  }
+]

@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="App\data\data.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,11 +76,27 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App\angular.js" />
+    <Content Include="App\app.js" />
+    <Content Include="App\css\style.css" />
+    <Content Include="App\images\crib1.jpg" />
+    <Content Include="App\images\crib2.jpg" />
+    <Content Include="App\images\crib3.jpg" />
+    <Content Include="App\images\crib4.jpg" />
+    <Content Include="App\images\crib5.jpg" />
+    <Content Include="App\images\crib6.jpg" />
+    <Content Include="App\images\default_home.jpg" />
+    <Content Include="App\images\default_home.png" />
+    <Content Include="App\index.html" />
+    <Content Include="App\scripts\cribsController.js" />
+    <Content Include="App\scripts\cribsFactory.js" />
+    <Content Include="App\scripts\cribsFilter.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
